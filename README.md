@@ -1,3 +1,8 @@
 "# flow" 
 
-Testerara aa dasda
+## Arbetsgång
+
+Skapa git repo
+copy paste på start koden
+
+yeet
